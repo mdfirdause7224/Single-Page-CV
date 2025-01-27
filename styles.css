@@ -1,0 +1,30 @@
+body {
+  border: 2px solid black;
+  padding: 20px;
+  
+}
+
+main {
+  border-top: 2px solid black;
+  margin-top: 15px;
+}
+
+h3 {
+  color: rgb(43, 145, 185);
+}
+
+h4 {
+  color: green;
+}
+
+.columns {
+  display: flex;
+  border: 2px solid white;
+}
+
+.column {
+  border: 2px solid black;
+  margin-right: 10px;
+  padding: 10px;
+}
+
