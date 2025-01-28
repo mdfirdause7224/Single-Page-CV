@@ -1,8 +1,9 @@
 body {
   border: 2px solid black;
   padding: 20px;
-  margin-right: 300px;
-  margin-left: 300px;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 main {
